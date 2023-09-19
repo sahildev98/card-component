@@ -4,10 +4,10 @@
 }
 
 .nav{
-  background-image: url("https://images.pexels.com/photos/2404185/pexels-photo-2404185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-image: url("https://coolwallpapers.me/picsup/6013846-background-knowledge-wallpaper-book-mood-pages-book.jpg");
   background-size: cover;
   background-repeat:no-repeat;
-  background-position: 0% 35%;
+  background-position: 0% 90%;
   height:20vh;
 }
 
@@ -17,7 +17,7 @@
 
 .nav ul{
   background: white;
-  opacity: 0.7;
+  opacity: 0.4;
   display: flex;
   justify-content: flex-end;
   flex-direction: row;
