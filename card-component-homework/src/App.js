@@ -5,7 +5,14 @@ import Card from './card.js'
 
 function App() {
   return (
+    <>
+    <header>
     <Navbar/>
+    </header>
+    <main>
+    <Card/>
+    </main>
+    </>
   );
 }
 
