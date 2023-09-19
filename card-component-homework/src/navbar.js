@@ -1,6 +1,5 @@
 export default function Navbar(){
     return <>
-    <Header/>
     <nav className="nav">
           <ul>
             <li><a href='libaries.html'>Libaries nearby</a></li>
