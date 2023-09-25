@@ -1,12 +1,12 @@
-function Card(props){
-    return (
-        <section className="Card-component">
-            <img src="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"/>
-            <p>Harry Potter and the Goblet of Fire </p>
-            <p>Jk Rowling</p>
-            <p>Made in year 2000</p>
-        </section>
-    )
+function Card(props) {
+  return (
+    <section className="Card-component">
+      <img src={props.img} />
+      <p>{props.name} </p>
+      <p>{props.author}</p>
+      <p>{props.publishDate}</p>
+    </section>
+  );
 }
 
-export default Card
+export default Card;
