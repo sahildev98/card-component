@@ -16,6 +16,53 @@ function App() {
           author="Jk Rowling"
           publishDate="Made in year 2000"
         />
+        <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        />
+         <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        /> <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        /> <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        /> <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        /> <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        /> <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        /> <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        /> <Card
+          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
+          name="Harry Potter and the Goblet of Fire"
+          author="Jk Rowling"
+          publishDate="Made in year 2000"
+        />
       </main>
     </>
   );
