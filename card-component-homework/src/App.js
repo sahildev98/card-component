@@ -48,9 +48,9 @@ function App() {
           author="Stephen King"
           publishDate="Made in year 2008"
         /> <Card
-          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
-          name="Harry Potter and the Goblet of Fire"
-          author="Jk Rowling"
+          img="https://m.media-amazon.com/images/I/41LyJ9yocnL._SY445_SX342_.jpg"
+          name="On Writing"
+          author="Stephen King"
           publishDate="Made in year 2000"
         /> <Card
           img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
