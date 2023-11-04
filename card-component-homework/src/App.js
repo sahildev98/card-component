@@ -43,10 +43,10 @@ function App() {
           author="John Steinbeck"
           publishDate="Made in year 2017"
         /> <Card
-          img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
-          name="Harry Potter and the Goblet of Fire"
-          author="Jk Rowling"
-          publishDate="Made in year 2000"
+          img="https://m.media-amazon.com/images/I/81jOI26444L._SL1500_.jpg"
+          name="The Green Mile"
+          author="Stephen King"
+          publishDate="Made in year 2008"
         /> <Card
           img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
           name="Harry Potter and the Goblet of Fire"
