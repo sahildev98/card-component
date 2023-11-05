@@ -10,6 +10,7 @@ function App() {
         <Navbar />
       </header>
       <main>
+        <section className="row1">
         <Card
           img="https://m.media-amazon.com/images/I/513TQ4ihqqL.jpg"
           name="Harry Potter and the Goblet of Fire"
@@ -27,7 +28,11 @@ function App() {
           name="Percy Jackson and The Sea of Monsters"
           author="Rick Riordan"
           publishDate="Made in year 2006"
-        /> <Card
+        /> 
+        </section>
+
+        <section className="row2">
+        <Card
           img="https://m.media-amazon.com/images/I/51o3Gno4PPL._SY445_SX342_.jpg"
           name="Percy Jackson and The Titan's Curse"
           author="Rick Riordan"
@@ -42,7 +47,10 @@ function App() {
           name="The Mice and Men"
           author="John Steinbeck"
           publishDate="Made in year 2017"
-        /> <Card
+        /> 
+        </section>
+        <section className="row3">
+        <Card
           img="https://m.media-amazon.com/images/I/81jOI26444L._SL1500_.jpg"
           name="The Green Mile"
           author="Stephen King"
@@ -63,6 +71,7 @@ function App() {
           author="Gillian Flynn"
           publishDate="Made in year 2012"
         />
+        </section>
       </main>
     </>
   );
