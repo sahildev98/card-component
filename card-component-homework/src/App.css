@@ -40,7 +40,9 @@ a {
   text-align: center;
 }
 
-main {
+.row1,
+.row2,
+.row3 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
