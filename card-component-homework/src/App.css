@@ -36,6 +36,10 @@ a {
   height: 400px;
 }
 
+.Card-component p {
+  text-align: center;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;
